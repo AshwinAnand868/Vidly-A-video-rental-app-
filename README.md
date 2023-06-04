@@ -1,1 +1,1 @@
-# Vidly-A-video-rental-app-
+# Vidly (A video rental application)
