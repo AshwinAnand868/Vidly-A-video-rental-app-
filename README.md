@@ -1,1 +1,1 @@
-# Vidly (A video rental application)
+Vidly is a feature-rich video rental application for shop managers, empowering them to register new customers, track rentals, and manage movie inventory effortlessly. Leveraging technologies like ASP.NET MVC, Web API, SQL Server, jQuery, Bootstrap, and more, the application enhances operational efficiency and delivers an exceptional user experience.
